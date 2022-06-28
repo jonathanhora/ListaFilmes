@@ -1,0 +1,13 @@
+@charset "UTF8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .tituloFilme{
+    font-weight: bold;
+}
+
+.container .tituloFilme .description{
+    font-weight:100;
+}
